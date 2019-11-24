@@ -1,0 +1,4 @@
+To have this be operational:
+
+The Client, Api and RTMPserver need to be accessed in a
+command prompt window and have the command 'npm start' used on it
