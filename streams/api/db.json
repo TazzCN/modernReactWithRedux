@@ -14,6 +14,12 @@
       "title": "New Stream",
       "description": "This stream has been refactored!!!",
       "id": 4
+    },
+    {
+      "title": "New Stream by Me",
+      "description": "This is by me",
+      "userId": "118129066888443064988",
+      "id": 5
     }
   ]
 }
